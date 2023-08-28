@@ -1,2 +1,1 @@
-# hello-world
-this is my first try, just give it to me
+Hi! I'm Angelyn currently studying BS Computer Science.
